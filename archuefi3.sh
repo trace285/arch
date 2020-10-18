@@ -117,4 +117,4 @@ sudo systemctl enable ufw
 # Очистка
 rm -rf ~/downloads/
 
-echo 'Установка завершена!'
+echo 'Установка завершена!!'
